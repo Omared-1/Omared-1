@@ -88,7 +88,7 @@
 </p>  
 
 <div align="center">
-  <img  src="https://github.com/{omared-1}/contribution-cal-snake/blob/master/animation/snake.gif"
+  <img  src="https://github.com/omared-1/contribution-cal-snake/blob/master/animation/snake.gif"
        alt="snake" />
 </div>
 
