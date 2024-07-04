@@ -69,7 +69,7 @@
   
   <!-- Databases -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.vhv.rs/dpng/d/544-5443880_microsoft-sql-server-icons-sql-server-2008-r2.png" alt="mssql" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-sql-4-190807.png?f=webp&w=256" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
