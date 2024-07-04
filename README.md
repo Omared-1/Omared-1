@@ -69,7 +69,7 @@
   
   <!-- Databases -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fsql-server-icon-png&psig=AOvVaw0_UKxg-2ad-LhMSlAVwcI7&ust=1720216540347000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDG55KwjocDFQAAAAAdAAAAABAE" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
