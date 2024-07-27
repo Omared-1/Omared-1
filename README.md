@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **omaralsyd4321@gmail.com**
 
-- 📄 Know about my experiences [My CV🗒️](https://drive.google.com/file/d/1XQlU8jM7tPfHS9ijk2JhxhgV26qr7XRL/view?usp=sharing)
+- 📄 Know about my experiences [My CV🗒️](https://drive.google.com/file/d/1kmLBdLObJg5qfAvz0bQXUO1762wR3MCc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
