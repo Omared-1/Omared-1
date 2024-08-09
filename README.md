@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Rasm Misr Store**
 
-- 🌱 I’m currently learning **SOLID ,Design patterns, Cloud(GCP,AWS) and Docker**
+- 🌱 I’m currently learning **Design patterns, Cloud(AWS)**
 
 - 💬 Ask me about **.NET, Back-end**
 
