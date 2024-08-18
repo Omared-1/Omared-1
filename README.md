@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"></h1>
 
-<h3 align="center">I am a dedicated software developer specializing in backend development  .NET API and MVC with a solid background in creating robust and scalable web applications. With a Bachelor's degree in Computer & Information Science, I have developed a keen eye for detail and a passion for clean, maintainable code. I am currently working in E-Commerce development and have experience in building web applications and APIs.</h3> 
+<h3 align="center">I am a dedicated software developer specializing in backend development  .NET API and MVC with a solid background in creating robust and scalable Software (API, MVC). With a Bachelor's degree in Computer & Information Technology, I have developed a keen eye for detail and a passion for clean, maintainable code. I am currently working in E-Commerce development and have experience in building web applications and APIs.</h3> 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </div>
