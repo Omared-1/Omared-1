@@ -1,20 +1,15 @@
-<h1 align="center">👋 Hi, I'm Omar Mohamed</h1>
+<h1 align="center">👋 Hello</h1>
 
-<h3 align="center">A dedicated Backend Software Developer with expertise in .NET API and MVC.</h3>
+<h3 align="center">A dedicated Backend Software Engineer.</h3>
 
-<p align="center">
-  Passionate about crafting robust and scalable software solutions, I hold a Bachelor's degree in Computer & Information Technology. My focus is on delivering clean, maintainable code, and I'm currently contributing to the E-Commerce sector by building web applications and APIs.
-</p>
+
 
 ---
 
 ### About Me
 
-- 🔭 I'm currently developing **Rasm Misr Store**.
-- 🌱 I'm actively learning about **Design Patterns** and **Cloud (AWS)** technologies.
-- 💬 Feel free to ask me about **.NET** or **Backend Development**.
-- 📫 You can reach me at **omaralsyd4321@gmail.com**.
-- 📄 Explore my professional experience: [My CV 🗒️](https://drive.google.com/file/d/1kmLBdLObJg5qfAvz0bQXUO1762wR3MCc/view?usp=sharing)
+-  I'm currently developing **open source project**.
+-  I'm actively learning about **Design Patterns** and **Cloud (AWS)** **DEVOPS**technologies.
 
 ---
 
