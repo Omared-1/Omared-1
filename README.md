@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello I'm Software Engineer|.NET Developer</h1>
+<h1 align="center">👋 Hello I'm Software Engineer|.NET</h1>
 
 
 
