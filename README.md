@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Omared-1/count.svg?"  />
-</div>
-
-###
